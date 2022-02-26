@@ -8,7 +8,7 @@ namespace Day-8-LineComparisonUsingOOps
 {
     public class UC_2_EqualityOfTwoLine
    {
-        public void LineEqualityCheck()
+        public void TwoLineEquality()
         {
              double x1 , x2 , x3 , x4 , y1 , y2 , y3 , y4 ;
             double LengthOfLine1, LengthOfLine2;
